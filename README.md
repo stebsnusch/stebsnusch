@@ -8,7 +8,8 @@ I'm a Software Engineer @ [QuintoAndar](https://quintoandar.com.br/).
 
 <details>
   <summary> More about me</summary>
-
+<div align="left">
+ 
 ``` js
 const stebs = {
     personal: {
@@ -38,7 +39,7 @@ const stebs = {
     }
 }
 ```
-
+  </div>
 </div>
 
 [![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](mailto:stephanyn7@gmail.com)
