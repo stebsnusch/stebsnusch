@@ -40,7 +40,7 @@ const stebs = {
 }
 ```
   </div>
-
+</details>
 
 [![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](mailto:stephanyn7@gmail.com)
 [![Twitter: stebsnusch](https://img.shields.io/twitter/follow/stebsnusch?style=social)](https://twitter.com/stebsnusch)
