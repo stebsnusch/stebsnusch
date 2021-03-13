@@ -44,7 +44,7 @@ const stebs = {
 </details>
 
 [![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](mailto:stephanyn7@gmail.com)
-[![Twitter: stephdotjs](https://img.shields.io/twitter/follow/stebsnusch?style=social)](https://twitter.com/stephdotjs)
+[![Twitter: stephdotjs](https://img.shields.io/twitter/follow/stephdotjs?style=social)](https://twitter.com/stephdotjs)
 [![Linkedin: stephanynusch](https://img.shields.io/badge/-stephanynusch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephanynusch/)](https://www.linkedin.com/in/stephanynusch/)
 [![GitHub: stebsnusch](https://img.shields.io/github/followers/stebsnusch?label=follow&style=social)](https://github.com/stebsnusch)
 </div>
